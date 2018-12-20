@@ -1,3 +1,3 @@
 module.exports = {
-  commandPrefix: '!',
+  commandPrefix: 'm!',
 };
